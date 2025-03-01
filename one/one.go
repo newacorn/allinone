@@ -6,4 +6,5 @@ func One() {
 
 func OneV2() {
 	println("Hello OneV2!")
+	println("12345")
 }
